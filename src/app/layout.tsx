@@ -4,8 +4,9 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
-import { Analytics } from "@/components/Analytics";
+import { Analytics as GoogleAnalytics } from "@/components/Analytics";
 import { JsonLd } from "@/components/JsonLd";
+import { Analytics } from "@vercel/analytics/next";
 import { personSchema, websiteSchema } from "@/lib/schema";
 import { site } from "@/lib/site";
 
@@ -37,6 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main id="contenu">{children}</main>
         <Footer />
         <WhatsAppFloat />
+        <GoogleAnalytics />
         <Analytics />
       </body>
     </html>
