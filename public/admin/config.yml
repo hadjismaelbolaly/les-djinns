@@ -1,0 +1,85 @@
+# Remplacez VOTRE-COMPTE/hadj-ismael-bohlaly et l'URL du site avant la mise en ligne
+backend:
+  name: github
+  repo: VOTRE-COMPTE/hadj-ismael-bohlaly
+  branch: main
+  base_url: https://www.hadjismaelbohlaly.com
+  auth_endpoint: api/auth
+
+locale: fr
+site_url: https://www.hadjismaelbohlaly.com
+display_url: https://www.hadjismaelbohlaly.com
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: blog
+    label: Articles du blog
+    label_singular: Article
+    folder: content/blog
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{title}} ({{date}})"
+    sortable_fields: [date, title]
+    fields: &articleFields
+      - { label: Titre, name: title, widget: string }
+      - { label: "Adresse de la page (slug, sans accents ni espaces)", name: slug, widget: string, required: false, hint: "Ex : comment-se-proteger-des-djinns. Laissez vide pour utiliser le nom du fichier." }
+      - { label: "Titre pour Google (facultatif, 60 caractères max)", name: seoTitle, widget: string, required: false }
+      - { label: "Description pour Google (150 à 160 caractères)", name: description, widget: text }
+      - { label: Date de publication, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
+      - { label: Date de mise à jour, name: updatedAt, widget: datetime, format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false, required: false }
+      - { label: Auteur, name: author, widget: string, default: "Hadj Ismael Bohlaly" }
+      - { label: Catégorie, name: category, widget: select, options: ["Djinns", "Protection", "Récitations", "Traditions", "Accompagnement"] }
+      - { label: Mots-clés, name: tags, widget: list, required: false }
+      - { label: Image principale, name: image, widget: image }
+      - { label: Description de l'image, name: imageAlt, widget: string, hint: "Décrivez l'image en quelques mots (important pour Google)." }
+      - { label: "Image de partage réseaux sociaux (facultatif)", name: ogImage, widget: image, required: false }
+      - { label: Contenu, name: body, widget: markdown }
+
+  - name: djinns
+    label: Pages sur les djinns
+    label_singular: Page djinns
+    folder: content/djinns
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    fields: *articleFields
+
+  - name: catalogue
+    label: Produits et rituels
+    files:
+      - name: produits
+        label: Produits
+        file: content/produits.json
+        fields:
+          - label: Produits
+            name: items
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { label: Nom, name: name, widget: string }
+              - { label: "Adresse (slug)", name: slug, widget: string }
+              - { label: Catégorie, name: category, widget: select, options: [{ label: "Bagues et bracelets", value: bijoux }, { label: "Huiles et parfums", value: huiles-parfums }, { label: Savons, value: savons }] }
+              - { label: Photos, name: images, widget: list, field: { label: Photo, name: image, widget: image } }
+              - { label: Description de la photo, name: imageAlt, widget: string }
+              - { label: Résumé court, name: short, widget: string }
+              - { label: Description, name: description, widget: text }
+              - { label: Utilisation, name: usage, widget: text }
+              - { label: Informations importantes, name: important, widget: text, required: false }
+              - { label: "Prix en FCFA (laisser vide = prix sur demande)", name: price, widget: number, required: false }
+              - { label: Disponibilité, name: availability, widget: select, options: [{ label: Disponible, value: en-stock }, { label: Sur commande, value: sur-commande }, { label: Épuisé, value: epuise }] }
+              - { label: Mettre en avant sur l'accueil, name: featured, widget: boolean, required: false }
+      - name: rituels
+        label: Rituels
+        file: content/rituels.json
+        fields:
+          - label: Rituels
+            name: items
+            widget: list
+            summary: "{{fields.name}}"
+            fields:
+              - { label: Nom, name: name, widget: string }
+              - { label: "Adresse (slug)", name: slug, widget: string }
+              - { label: Famille, name: family, widget: select, options: [{ label: Récitations et invocations, value: recitations }, { label: Protection du domicile, value: domicile }, { label: Bains et purifications, value: bains }, { label: Huiles et produits récités, value: huiles }, { label: Savoirs traditionnels, value: traditionnels }, { label: Accompagnement personnalisé, value: accompagnement }] }
+              - { label: Description, name: description, widget: text }

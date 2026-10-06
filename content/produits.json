@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "slug": "bague-hasbiyallah-en-argent",
+      "name": "Bague Hasbiyallah en argent",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bague-hasbiyallah.webp"
+      ],
+      "imageAlt": "Bague Hasbiyallah en argent",
+      "short": "Bague en argent gravée « Hasbiyallah » (Allah me suffit), finement ciselée",
+      "description": "Bague en argent gravée de la formule « Hasbiyallah », « Allah me suffit ». Le chaton est entouré d'arabesques ciselées et l'anneau porte des motifs travaillés à la main.",
+      "usage": "Portée au quotidien comme rappel de la confiance en Allah. Hadj Ismael peut la réciter avant l'envoi.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "bague-en-agate-verte-calligraphiee",
+      "name": "Bague en agate verte calligraphiée",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bague-agate-verte.webp"
+      ],
+      "imageAlt": "Bague en agate verte calligraphiée",
+      "short": "Bague en argent sertie d'une agate verte gravée en calligraphie arabe",
+      "description": "Une agate verte gravée en calligraphie arabe, sertie dans une monture en argent au liseré perlé.",
+      "usage": "À porter à la main droite ou gauche selon votre préférence. Préparée et récitée sur demande.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "bague-en-cornaline-ayat-al-kursi",
+      "name": "Bague en cornaline Ayat al-Kursi",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bague-cornaline-ayat-al-kursi.webp"
+      ],
+      "imageAlt": "Bague en cornaline Ayat al-Kursi",
+      "short": "Cornaline rouge (aqiq) gravée de l'Ayat al-Kursi, monture argent ajourée",
+      "description": "Une cornaline, l'aqiq de la tradition, gravée du verset du Trône en lettres dorées. La monture en argent est ajourée d'arabesques.",
+      "usage": "Portée comme protection et rappel du verset du Trône. Récitée par Hadj Ismael sur demande.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "bracelet-en-il-de-tigre",
+      "name": "Bracelet en œil-de-tigre",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bracelet-oeil-de-tigre.webp"
+      ],
+      "imageAlt": "Bracelet en œil-de-tigre",
+      "short": "Bracelet de perles d'œil-de-tigre aux reflets dorés",
+      "description": "Un bracelet de perles rondes d'œil-de-tigre, pierre aux reflets dorés appréciée dans de nombreuses traditions.",
+      "usage": "Se porte au poignet. Peut être préparé et récité par Hadj Ismael.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "bracelet-quartz-fume-et-il-de-tigre",
+      "name": "Bracelet quartz fumé et œil-de-tigre",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bracelet-quartz-fume.webp"
+      ],
+      "imageAlt": "Bracelet quartz fumé et œil-de-tigre",
+      "short": "Bracelet en quartz fumé avec une perle centrale d'œil-de-tigre",
+      "description": "Des perles de quartz fumé autour d'une perle centrale d'œil-de-tigre.",
+      "usage": "Se porte au poignet, seul ou avec d'autres bracelets.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "bague-doree-il-de-tigre",
+      "name": "Bague dorée œil-de-tigre",
+      "category": "bijoux",
+      "images": [
+        "/images/produits/bague-oeil-de-tigre.webp"
+      ],
+      "imageAlt": "Bague dorée œil-de-tigre",
+      "short": "Bague dorée ajustable sertie d'un cabochon d'œil-de-tigre",
+      "description": "Un cabochon ovale d'œil-de-tigre serti sur une monture dorée ajustable, ornée de petites pierres.",
+      "usage": "Taille ajustable. Préparée et récitée sur demande.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "huile-recitee-au-romarin",
+      "name": "Huile récitée au romarin",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-romarin.webp",
+        "/images/produits/huile-romarin-2.webp"
+      ],
+      "imageAlt": "Huile récitée au romarin",
+      "short": "Huile végétale macérée au romarin, récitée",
+      "description": "Une huile végétale dans laquelle le romarin a longuement macéré, puis récitée par Hadj Ismael.",
+      "usage": "Quelques gouttes appliquées selon les indications données lors de l'échange.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "huile-de-nigelle-recitee",
+      "name": "Huile de nigelle récitée",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-nigelle.webp"
+      ],
+      "imageAlt": "Huile de nigelle récitée",
+      "short": "Huile de nigelle en flacon compte-gouttes, récitée",
+      "description": "L'huile de nigelle (habba sawda), très présente dans la tradition prophétique, récitée et conditionnée en flacon compte-gouttes.",
+      "usage": "Quelques gouttes selon les indications de Hadj Ismael.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "huile-recitee-en-compte-gouttes",
+      "name": "Huile récitée en compte-gouttes",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-recitee-compte-gouttes.webp"
+      ],
+      "imageAlt": "Huile récitée en compte-gouttes",
+      "short": "Petit flacon d'huile récitée, facile à emporter",
+      "description": "Un flacon de voyage d'huile récitée, pratique à garder sur soi.",
+      "usage": "Application de quelques gouttes, selon les conseils reçus.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "eaux-parfumees-rose-ambre-et-safran",
+      "name": "Eaux parfumées rose, ambre et safran",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/eaux-rose-safran.webp"
+      ],
+      "imageAlt": "Eaux parfumées rose, ambre et safran",
+      "short": "Trois eaux parfumées aux pétales de rose, à l'ambre et au safran",
+      "description": "Un trio d'eaux parfumées : pétales de rose, ambre et filaments de safran.",
+      "usage": "Utilisées en parfum, dans le bain ou lors des purifications.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "eau-de-protection",
+      "name": "Eau de protection",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/eau-de-protection.webp"
+      ],
+      "imageAlt": "Eau de protection",
+      "short": "Eau préparée et récitée pour la protection",
+      "description": "Une eau préparée selon la tradition et récitée, conditionnée en flacon.",
+      "usage": "Utilisation indiquée par Hadj Ismael selon votre situation.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "huile-aux-plantes-et-fleurs",
+      "name": "Huile aux plantes et fleurs",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-plantes-fleurs.webp"
+      ],
+      "imageAlt": "Huile aux plantes et fleurs",
+      "short": "Macération de plantes, graines et pétales de rose dans l'huile",
+      "description": "Un mélange de plantes, de graines et de pétales de rose macérés dans l'huile, selon une préparation traditionnelle.",
+      "usage": "Application selon les indications données.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "huile-lavande-et-romarin",
+      "name": "Huile lavande et romarin",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-lavande-romarin.webp"
+      ],
+      "imageAlt": "Huile lavande et romarin",
+      "short": "Huile macérée à la lavande et au romarin",
+      "description": "Une huile dorée macérée à la lavande et au romarin.",
+      "usage": "Quelques gouttes, selon les conseils reçus.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "huile-aux-roses-de-tradition",
+      "name": "Huile aux roses de tradition",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/huile-roses-tradition.webp",
+        "/images/produits/maceration-plantes.webp"
+      ],
+      "imageAlt": "Huile aux roses de tradition",
+      "short": "Huile aux pétales de rose et plantes, préparée selon la tradition",
+      "description": "Une préparation artisanale aux pétales de rose et aux plantes, laissée longuement en macération.",
+      "usage": "Application selon les indications de Hadj Ismael.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "maceration-de-fleurs",
+      "name": "Macération de fleurs",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/maceration-fleurs.webp"
+      ],
+      "imageAlt": "Macération de fleurs",
+      "short": "Huiles de fleurs de souci et de roses en macération",
+      "description": "Deux préparations aux fleurs séchées : souci (calendula) d'un côté, roses et plantes de l'autre.",
+      "usage": "Utilisation selon les indications données lors de l'échange.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "coffret-sels-et-huiles-de-purification",
+      "name": "Coffret sels et huiles de purification",
+      "category": "huiles-parfums",
+      "images": [
+        "/images/produits/sels-et-huiles.webp"
+      ],
+      "imageAlt": "Coffret sels et huiles de purification",
+      "short": "Sels de bain aux pétales de rose et huiles récitées",
+      "description": "Des sels de bain aux pétales de rose accompagnés de flacons d'huile récitée, pour les bains de purification.",
+      "usage": "Les sels se dissolvent dans le bain ; l'huile s'applique ensuite selon les conseils.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "savon-noir-premium",
+      "name": "Savon noir premium",
+      "category": "savons",
+      "images": [
+        "/images/produits/savon-noir-premium.webp"
+      ],
+      "imageAlt": "Savon noir premium",
+      "short": "Savon noir traditionnel en pot, texture riche",
+      "description": "Un savon noir traditionnel à la texture riche, préparé à l'ancienne.",
+      "usage": "Utilisé lors des ablutions et des bains de purification.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": true
+    },
+    {
+      "slug": "savon-noir-traditionnel",
+      "name": "Savon noir traditionnel",
+      "category": "savons",
+      "images": [
+        "/images/produits/savon-noir.webp",
+        "/images/produits/savon-noir-pots.webp"
+      ],
+      "imageAlt": "Savon noir traditionnel",
+      "short": "Savon noir en pâte, préparation artisanale",
+      "description": "Le savon noir en pâte de la tradition, en pot.",
+      "usage": "Pour les ablutions et les bains de purification.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "savon-noir-aux-plantes",
+      "name": "Savon noir aux plantes",
+      "category": "savons",
+      "images": [
+        "/images/produits/savon-plantes.webp"
+      ],
+      "imageAlt": "Savon noir aux plantes",
+      "short": "Savon noir enrichi de plantes, en pot de verre",
+      "description": "Un savon noir artisanal enrichi de plantes, conditionné en pot de verre.",
+      "usage": "Pour les bains de purification.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "savon-noir-artisanal",
+      "name": "Savon noir artisanal",
+      "category": "savons",
+      "images": [
+        "/images/produits/savon-noir-artisanal.webp"
+      ],
+      "imageAlt": "Savon noir artisanal",
+      "short": "Savon noir artisanal en pot",
+      "description": "Un savon noir préparé de façon artisanale.",
+      "usage": "Pour les ablutions et les bains.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    },
+    {
+      "slug": "gommage-traditionnel",
+      "name": "Gommage traditionnel",
+      "category": "savons",
+      "images": [
+        "/images/produits/gommage-traditionnel.webp"
+      ],
+      "imageAlt": "Gommage traditionnel",
+      "short": "Gommage aux plantes, en pot",
+      "description": "Une préparation granuleuse aux plantes, pour accompagner les bains de purification.",
+      "usage": "S'utilise pendant le bain, en complément du savon noir.",
+      "important": "Produit à usage spirituel. Il ne remplace pas un traitement médical. Pour les produits appliqués sur la peau, faites un essai sur une petite zone.",
+      "availability": "sur-commande",
+      "featured": false
+    }
+  ]
+}

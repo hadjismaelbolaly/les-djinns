@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "slug": "roqya-par-la-sourate-al-fatiha",
+      "name": "Roqya par la sourate Al-Fatiha",
+      "family": "recitations",
+      "description": "La Fatiha, mère du Livre, récitée avec intention sur la personne qui se sent troublée, pour ouvrir chaque accompagnement."
+    },
+    {
+      "slug": "ayat-al-kursi-de-protection",
+      "name": "Ayat al-Kursi de protection",
+      "family": "recitations",
+      "description": "Le verset du Trône, récité matin et soir et avant de dormir, l'une des protections les plus transmises dans la tradition."
+    },
+    {
+      "slug": "les-trois-sourates-protectrices",
+      "name": "Les trois sourates protectrices",
+      "family": "recitations",
+      "description": "Al-Ikhlas, Al-Falaq et An-Nas, récitées trois fois, comme le recommande la tradition pour se placer sous la protection d'Allah."
+    },
+    {
+      "slug": "fin-de-la-sourate-al-baqara",
+      "name": "Fin de la sourate Al-Baqara",
+      "family": "recitations",
+      "description": "Les deux derniers versets de la sourate Al-Baqara, récités le soir pour la protection de la personne et du foyer."
+    },
+    {
+      "slug": "invocations-du-matin",
+      "name": "Invocations du matin",
+      "family": "recitations",
+      "description": "Une série d'invocations transmises pour commencer la journée sous protection, que Hadj Ismael vous apprend à réciter."
+    },
+    {
+      "slug": "invocations-du-soir",
+      "name": "Invocations du soir",
+      "family": "recitations",
+      "description": "Les invocations de la tombée de la nuit, moment où la tradition recommande de renforcer sa protection."
+    },
+    {
+      "slug": "invocations-avant-le-sommeil",
+      "name": "Invocations avant le sommeil",
+      "family": "recitations",
+      "description": "Des récitations courtes pour s'endormir apaisé, souvent demandées par les personnes qui font des cauchemars."
+    },
+    {
+      "slug": "recitation-de-protection-pour-les-enfants",
+      "name": "Récitation de protection pour les enfants",
+      "family": "recitations",
+      "description": "Les invocations traditionnelles de protection des enfants, récitées par les parents ou avec l'accompagnement de Hadj Ismael."
+    },
+    {
+      "slug": "lecture-de-la-sourate-yasin",
+      "name": "Lecture de la sourate Yasin",
+      "family": "recitations",
+      "description": "Une lecture complète de la sourate Yasin, accompagnée d'invocations adaptées à la situation de la personne."
+    },
+    {
+      "slug": "lecture-de-la-sourate-al-baqara-dans-la-maison",
+      "name": "Lecture de la sourate Al-Baqara dans la maison",
+      "family": "domicile",
+      "description": "La tradition rapporte que la maison où l'on récite la sourate Al-Baqara est protégée. Hadj Ismael vous guide pour l'organiser."
+    },
+    {
+      "slug": "appel-a-la-priere-dans-les-pieces",
+      "name": "Appel à la prière dans les pièces",
+      "family": "domicile",
+      "description": "L'adhan prononcé dans chaque pièce du foyer pour y ramener la sérénité et la présence du rappel d'Allah."
+    },
+    {
+      "slug": "purification-de-la-maison-au-bakhour",
+      "name": "Purification de la maison au bakhour",
+      "family": "domicile",
+      "description": "Fumigation au bakhour accompagnée de récitations, pièce par pièce, pour assainir l'atmosphère du foyer."
+    },
+    {
+      "slug": "fumigation-au-bois-de-oud",
+      "name": "Fumigation au bois de oud",
+      "family": "domicile",
+      "description": "Le oud brûlé en suivant un ordre précis dans la maison, associé aux invocations de protection."
+    },
+    {
+      "slug": "protection-du-seuil-et-des-portes",
+      "name": "Protection du seuil et des portes",
+      "family": "domicile",
+      "description": "Un rituel centré sur les entrées de la maison, lieux de passage que la tradition invite à protéger en priorité."
+    },
+    {
+      "slug": "aspersion-d-eau-recitee",
+      "name": "Aspersion d'eau récitée",
+      "family": "domicile",
+      "description": "De l'eau sur laquelle des versets ont été récités, répandue dans les coins de la maison."
+    },
+    {
+      "slug": "protection-d-une-nouvelle-maison",
+      "name": "Protection d'une nouvelle maison",
+      "family": "domicile",
+      "description": "À l'installation dans un nouveau logement, un ensemble de récitations et de gestes pour y entrer sous protection."
+    },
+    {
+      "slug": "protection-du-commerce-et-du-lieu-de-travail",
+      "name": "Protection du commerce et du lieu de travail",
+      "family": "domicile",
+      "description": "Récitations et fumigations adaptées à une boutique, un bureau ou un atelier."
+    },
+    {
+      "slug": "apaisement-du-foyer-apres-un-conflit",
+      "name": "Apaisement du foyer après un conflit",
+      "family": "domicile",
+      "description": "Un rituel pour ramener le calme dans une maison marquée par les disputes ou les tensions."
+    },
+    {
+      "slug": "bain-au-sidr-feuilles-de-jujubier",
+      "name": "Bain au sidr (feuilles de jujubier)",
+      "family": "bains",
+      "description": "Le bain au sidr récité, pratique très ancienne de la roqya, pour la purification du corps et de l'esprit."
+    },
+    {
+      "slug": "bain-d-eau-recitee",
+      "name": "Bain d'eau récitée",
+      "family": "bains",
+      "description": "Une eau sur laquelle Hadj Ismael a récité des versets de protection, utilisée pour un bain ou des ablutions."
+    },
+    {
+      "slug": "ablutions-au-savon-noir",
+      "name": "Ablutions au savon noir",
+      "family": "bains",
+      "description": "Le savon noir traditionnel utilisé lors d'ablutions de purification, avant la prière ou un rituel."
+    },
+    {
+      "slug": "bain-au-sel-et-aux-petales-de-rose",
+      "name": "Bain au sel et aux pétales de rose",
+      "family": "bains",
+      "description": "Un bain de purification qui associe le sel et les pétales de rose, dans un esprit de renouveau."
+    },
+    {
+      "slug": "bain-de-plantes-traditionnelles",
+      "name": "Bain de plantes traditionnelles",
+      "family": "bains",
+      "description": "Des plantes choisies selon les savoirs ancestraux, préparées en décoction pour un bain de purification."
+    },
+    {
+      "slug": "bain-de-purification-du-vendredi",
+      "name": "Bain de purification du vendredi",
+      "family": "bains",
+      "description": "Le bain du vendredi, jour béni, accompagné d'invocations particulières."
+    },
+    {
+      "slug": "bain-du-nouveau-depart",
+      "name": "Bain du nouveau départ",
+      "family": "bains",
+      "description": "Un bain pour marquer un nouveau chapitre : après une épreuve, un déménagement ou un changement de vie."
+    },
+    {
+      "slug": "bain-de-protection-avant-un-voyage",
+      "name": "Bain de protection avant un voyage",
+      "family": "bains",
+      "description": "Purification et invocations pour partir en voyage sous protection."
+    },
+    {
+      "slug": "onction-a-l-huile-d-olive-recitee",
+      "name": "Onction à l'huile d'olive récitée",
+      "family": "huiles",
+      "description": "L'huile d'olive, arbre béni cité dans le Coran, récitée puis appliquée selon les indications de Hadj Ismael."
+    },
+    {
+      "slug": "huile-de-nigelle-recitee",
+      "name": "Huile de nigelle récitée",
+      "family": "huiles",
+      "description": "La graine de nigelle, très présente dans la tradition prophétique, sous forme d'huile récitée."
+    },
+    {
+      "slug": "miel-recite",
+      "name": "Miel récité",
+      "family": "huiles",
+      "description": "Un miel sur lequel des versets ont été récités, à consommer selon les conseils donnés lors de l'accompagnement."
+    },
+    {
+      "slug": "eau-de-zamzam-recitee",
+      "name": "Eau de Zamzam récitée",
+      "family": "huiles",
+      "description": "L'eau de Zamzam associée à des récitations, pour accompagner les invocations personnelles."
+    },
+    {
+      "slug": "parfum-de-protection",
+      "name": "Parfum de protection",
+      "family": "huiles",
+      "description": "Un parfum préparé et récité, à porter au quotidien comme rappel de sa protection."
+    },
+    {
+      "slug": "huile-aux-plantes-de-protection",
+      "name": "Huile aux plantes de protection",
+      "family": "huiles",
+      "description": "Une macération de plantes dans l'huile, préparée selon la tradition et récitée."
+    },
+    {
+      "slug": "eau-de-rose-et-safran",
+      "name": "Eau de rose et safran",
+      "family": "huiles",
+      "description": "L'eau de rose et le safran, utilisés dans la tradition pour les écritures et les purifications."
+    },
+    {
+      "slug": "sel-recite-pour-la-maison",
+      "name": "Sel récité pour la maison",
+      "family": "huiles",
+      "description": "Du sel récité, déposé ou dissous selon les indications, pour la protection du foyer."
+    },
+    {
+      "slug": "racines-et-ecorces-de-protection",
+      "name": "Racines et écorces de protection",
+      "family": "traditionnels",
+      "description": "Des racines et écorces choisies selon les savoirs ancestraux d'Afrique de l'Ouest, préparées pour la protection."
+    },
+    {
+      "slug": "plantes-protectrices-de-la-tradition",
+      "name": "Plantes protectrices de la tradition",
+      "family": "traditionnels",
+      "description": "Les plantes que la tradition africaine associe à la protection, préparées en décoction, en bain ou en fumigation."
+    },
+    {
+      "slug": "protection-ancestrale-de-la-famille",
+      "name": "Protection ancestrale de la famille",
+      "family": "traditionnels",
+      "description": "Un rituel hérité des anciens pour placer toute la famille sous protection."
+    },
+    {
+      "slug": "consultation-traditionnelle",
+      "name": "Consultation traditionnelle",
+      "family": "traditionnels",
+      "description": "Une consultation selon les méthodes traditionnelles pour comprendre une situation et choisir les bonnes pratiques."
+    },
+    {
+      "slug": "fumigation-aux-plantes-traditionnelles",
+      "name": "Fumigation aux plantes traditionnelles",
+      "family": "traditionnels",
+      "description": "Des plantes séchées brûlées selon la tradition pour purifier une personne ou un lieu."
+    },
+    {
+      "slug": "bracelet-de-protection-prepare",
+      "name": "Bracelet de protection préparé",
+      "family": "traditionnels",
+      "description": "Un bracelet préparé et récité par Hadj Ismael, à porter au poignet."
+    },
+    {
+      "slug": "bague-de-protection-preparee",
+      "name": "Bague de protection préparée",
+      "family": "traditionnels",
+      "description": "Une bague gravée, préparée et récitée, alliant l'objet traditionnel et les versets du Coran."
+    },
+    {
+      "slug": "rituel-d-ouverture-des-chemins",
+      "name": "Rituel d'ouverture des chemins",
+      "family": "traditionnels",
+      "description": "Un rituel traditionnel pour accompagner une personne qui se sent bloquée dans ses projets ou sa vie."
+    },
+    {
+      "slug": "seance-de-roqya-individuelle",
+      "name": "Séance de roqya individuelle",
+      "family": "accompagnement",
+      "description": "Une séance complète de récitations avec Hadj Ismael, en personne ou à distance."
+    },
+    {
+      "slug": "suivi-spirituel-a-distance-par-whatsapp",
+      "name": "Suivi spirituel à distance par WhatsApp",
+      "family": "accompagnement",
+      "description": "Un accompagnement régulier par messages et appels, où que vous soyez dans le monde."
+    },
+    {
+      "slug": "accompagnement-des-nuits-agitees",
+      "name": "Accompagnement des nuits agitées",
+      "family": "accompagnement",
+      "description": "Pour les personnes qui font des cauchemars ou dorment mal, en complément d'un avis médical."
+    },
+    {
+      "slug": "protection-des-enfants",
+      "name": "Protection des enfants",
+      "family": "accompagnement",
+      "description": "Un accompagnement pour les parents qui souhaitent placer leurs enfants sous protection."
+    },
+    {
+      "slug": "protection-du-couple-et-du-mariage",
+      "name": "Protection du couple et du mariage",
+      "family": "accompagnement",
+      "description": "Récitations et conseils pour un foyer apaisé et protégé."
+    },
+    {
+      "slug": "protection-d-un-projet-ou-d-un-commerce",
+      "name": "Protection d'un projet ou d'un commerce",
+      "family": "accompagnement",
+      "description": "Un accompagnement avant un lancement, une ouverture ou une étape importante."
+    },
+    {
+      "slug": "accompagnement-apres-une-epreuve",
+      "name": "Accompagnement après une épreuve",
+      "family": "accompagnement",
+      "description": "Un soutien spirituel après un deuil, une séparation ou une période difficile."
+    },
+    {
+      "slug": "bilan-spirituel-personnalise",
+      "name": "Bilan spirituel personnalisé",
+      "family": "accompagnement",
+      "description": "Un premier échange pour faire le point sur votre situation et choisir les pratiques adaptées."
+    }
+  ]
+}
