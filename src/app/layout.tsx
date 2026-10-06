@@ -8,6 +8,7 @@ import { Analytics } from "@/components/Analytics";
 import { JsonLd } from "@/components/JsonLd";
 import { personSchema, websiteSchema } from "@/lib/schema";
 import { site } from "@/lib/site";
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
 
 const cormorant = Cormorant_Garamond({ subsets: ["latin"], weight: ["400", "500", "600"], style: ["normal", "italic"], variable: "--font-cormorant", display: "swap" });
 const poppins = Poppins({ subsets: ["latin"], weight: ["300", "400", "500"], variable: "--font-poppins", display: "swap" });
