@@ -2,10 +2,10 @@ import type { NavItem } from "@/types";
 
 export const site = {
   name: "Hadj Ismael Bohlaly",
-  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://www.hadjismaelbohlaly.com").replace(/\/$/, ""),
+  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://www.lesdjinnssolutions.com").replace(/\/$/, ""),
   locale: "fr_FR",
-  whatsapp: "22666725852",
-  whatsappDisplay: "+226 66 72 58 52",
+    whatsapp: "22604469454",
+  whatsappDisplay: "+226 04 46 94 54",
   email: "hadjismaelbolaly@gmail.com",
   defaultOg: "/images/og-default.jpg",
   portrait: "/images/hadj/hadj-ismael-portrait.webp",
